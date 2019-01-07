@@ -1,0 +1,30 @@
+body, html {
+    font-family: 'Work Sans', sans-serif;
+    height: 100%;
+    margin: 0;
+}
+.bgimg {
+  background-image: url('https://images.pexels.com/photos/1471748/pexels-photo-1471748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+
+}
+.imgjc{
+    width: 150px;
+    height: 150px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 75px;
+    align-content: center;
+    margin-top: 10%;
+}
+.picture{
+    position: relative;
+}
+.texto{
+    text-align: center;
+    position: absolute;
+    transform: translate(-70%, -70%);
+}
