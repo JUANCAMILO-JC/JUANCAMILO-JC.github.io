@@ -25,6 +25,4 @@ body, html {
 }
 .texto{
     text-align: center;
-    position: absolute;
-    transform: translate(-70%, -70%);
 }
